@@ -16,7 +16,7 @@ This is a **group project** built to allow users to explore events and book tick
 
 ## 🛠️ Tech Stack
 
-* Frontend: HTML, CSS, JavaScript
+* Frontend: react js 
 * Backend: Node.js, Express
 * Database: MongoDB
 
